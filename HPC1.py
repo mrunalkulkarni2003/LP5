@@ -70,3 +70,14 @@ if __name__ == "__main__":
 	print("Depth First Search (DFS): ", end="")
 	graph.dfs(start_vertex)
 	print()
+
+OUTPUT - 6
+7
+0 1 
+0 2
+1 3
+1 4
+2 4
+3 5
+4 5
+0
